@@ -187,11 +187,11 @@ st.header("")
 cs, c1, c2, c3, cLast = st.columns([2, 1.5, 1.5, 1.5, 2])
 
 with c1:
-    CSVButton2 = download_button(keywords, "Data.csv", "🎁 Download (.csv)")
+    CSVButton2 = download_button(keywords, "Data.csv", "📥 Download (.csv)")
 with c2:
-    CSVButton2 = download_button(keywords, "Data.txt", "🎁 Download (.txt)")
+    CSVButton2 = download_button(keywords, "Data.txt", "📥 Download (.txt)")
 with c3:
-    CSVButton2 = download_button(keywords, "Data.json", "🎁 Download (.json)")
+    CSVButton2 = download_button(keywords, "Data.json", "📥 Download (.json)")
 
 st.header("")
 
