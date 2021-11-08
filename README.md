@@ -9,4 +9,4 @@
    multiple NLP embeddings and relies on Transformers 🤗 to create
    keywords/keyphrases that are most similar to a document.
 
-![image](https://user-images.githubusercontent.com/27242399/140732492-d189bcc3-e957-493e-a06f-b2ba934552e9.png)
+![image](https://user-images.githubusercontent.com/27242399/140746511-1205f24a-869f-4b24-9ed7-9153cfeef8e3.png)
