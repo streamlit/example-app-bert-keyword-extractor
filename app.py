@@ -35,8 +35,11 @@ _max_width_()
 c30, c31, c32 = st.columns([2.5, 1, 3])
 
 with c30:
-    st.image("logo.png", width=400)
+    # st.image("logo.png", width=400)
+    st.title("🔑 BERT Keyword Extractor")
     st.header("")
+
+
 
 with st.expander("ℹ️ - About this app", expanded=True):
 
